@@ -22,6 +22,8 @@
           pkgs.libtool
           pkgs.wget
           pkgs.ant
+          pkgs.libxml2
+          pkgs.libxslt
         ];
       };
     };
